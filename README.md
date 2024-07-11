@@ -2,7 +2,7 @@
 
 Many of us engineers are underpaid compared to what we could earn in the market. We don't realize it because we're not actively seeking new opportunities, and the only contact we have with the job market is recruiters harassing us with bad offers.
 
-To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub), the first confidential and intermediary-free hiring marketplace.
+To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub), the first confidential hiring marketplace.
 
 ## How it works
 1. You create a profile, specifying your base criteria (role, compensation, location, etc.).
