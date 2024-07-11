@@ -10,14 +10,22 @@ To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_s
 3. Startups reach out to you with personalized job opportunities.
 
 ## Why it's so cool
-- It connects you with the top 1% of tech startups. ✨
-- Companies are charged, not you. 🎁
-- It's confidential, meaning your current employer won't find out. 🔒
-- No agencies. Hell no, Satan. 🙅‍♂️
+```
+✨ It connects you with the top 1% of tech startups.
+```
+```
+🎁 Companies are charged, not you.
+```
+```
+🔒 It's confidential, meaning your current employer won't find out.
+```
+```
+No agencies. Hell no, Satan. 🙅‍♂️
+```
 
 <br>
 <a href="https://candix.com/?utm_medium=social&utm_source=GitHub">
-  <img style="border-radius:20px" height="250" src="https://i.ibb.co/vPyb987/candix-com.png" width="400">
+  <img style="display:block" height="250" src="https://i.ibb.co/vPyb987/candix-com.png" width="400">
 </a>
 
 Git you curious? [Sign up in 2 minutes](https://candix.com/?utm_medium=social&utm_source=GitHub) and change for the better.
