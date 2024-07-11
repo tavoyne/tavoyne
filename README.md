@@ -1,8 +1,6 @@
 # Hi there, I'm Theophile Avoyne 👋
 
-I think many of us engineers are stuck in companies that aren't exciting enough, working on code that isn't challenging enough, and are underpaid compared to what we could earn in the market.
-
-We're not prospecting because the job-seeking process is such a pain, and it would be awkward if our boss heard about it.
+I think many of us engineers are stuck in companies that aren't exciting enough, working on code that isn't challenging enough, and are underpaid compared to what we could earn in the market. We're not prospecting because the job-seeking process is such a pain, and it would be awkward if our boss heard about it.
 
 I created [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub) to solve that.
 
