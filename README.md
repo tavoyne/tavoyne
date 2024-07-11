@@ -4,12 +4,12 @@ Many of us engineers are underpaid compared to what we could earn in the market.
 
 To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub), the first confidential and intermediary-free hiring marketplace.
 
-## How it works:
+## How it works
 1. You create a profile, specifying your base criteria (role, compensation, location, etc.).
 2. We connect you with selected startups in our network (we only work with the best ones).
 3. Startups reach out to you with personalized job opportunities.
 
-## Why it's so cool:
+## Why it's so cool
 - It connects you with the top 1% of tech startups. ✨
 - Companies are charged, not you. 🎁
 - It's confidential, meaning your current employer won't find out. 🔒
