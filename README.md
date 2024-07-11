@@ -1,4 +1,4 @@
-# What would it take for you to quit your job?
+# 🔥 What would it take for you to quit your job?
 
 Many of us engineers are underpaid compared to what we could earn in the market. We don't realize it because we're not actively seeking new opportunities, and the only contact we have with the job market is recruiters harassing us with bad offers.
 
