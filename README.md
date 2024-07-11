@@ -1,8 +1,10 @@
 # What would it take for you to quit your job? 🪐
 
-Many of us engineers are underpaid compared to what we could earn in the market. We don't realize it because we're not actively seeking new opportunities, and the only contact we have with the job market is recruiters harassing us with bad offers.
+List yourself on [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub) to be approached by top-paying startups and find out. 
 
-To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub), the first confidential hiring marketplace.
+People have used it to secure interviews at places like OpenAI and Ramp. 
+
+It’s 100% confidential, so your current boss won’t find out.
 
 ## How it works
 1. You create a profile, specifying your base criteria (role, compensation, location, etc.).
