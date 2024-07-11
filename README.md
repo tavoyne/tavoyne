@@ -15,4 +15,9 @@ To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_s
 - It's confidential, meaning your current employer won't find out. 🔒
 - No agencies. Hell no, Satan. 🙅‍♂️
 
+<br>
+<a href="https://candix.com/?utm_medium=social&utm_source=GitHub">
+  <img style="border-radius:20px" height="250" src="https://i.ibb.co/vPyb987/candix-com.png" width="400">
+</a>
+
 Git you curious? [Sign up in 2 minutes](https://candix.com/?utm_medium=social&utm_source=GitHub) and change for the better.
