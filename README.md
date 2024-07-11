@@ -7,7 +7,7 @@ People have used it to secure interviews at places like OpenAI and Ramp.
 It’s 100% confidential, so your current boss won’t find out.
 
 ## How it works
-1. You create a profile, specifying your base criteria (role, compensation, location, etc.).
+1. You create a profile in 2 min, specifying your base criteria (role, compensation, location, etc.).
 2. We connect you with selected startups in our network (we only work with the best ones).
 3. Startups reach out to you with personalized job opportunities.
 
