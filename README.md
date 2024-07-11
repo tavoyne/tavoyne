@@ -10,7 +10,7 @@ To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_s
 3. Startups reach out to you with personalized job opportunities.
 
 ## Why it's so cool:
-- It connects you with the top 1% of tech startups (OpenAI, Ramp, etc.). ✨
+- It connects you with the top 1% of tech startups. ✨
 - Companies are charged, not you. 🎁
 - It's confidential, meaning your current employer won't find out. 🔒
 - No agencies. Hell no, Satan. 🙅‍♂️
