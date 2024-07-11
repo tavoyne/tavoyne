@@ -12,7 +12,7 @@ It connects you with the most exciting and top-paying startups in the US and abr
 
 Usage is skyrocketing, with companies like OpenAI, Ramp, and many others accessing the pool.
 
-[Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub) in 2 minutes and change your life for the better.
+Curious? [Sign up in 2 minutes](https://candix.com/?utm_medium=social&utm_source=GitHub) and change your life for the better.
 
 Feel free to [reach out](mailto=theophile@candix.com) if you want to learn more.
 
