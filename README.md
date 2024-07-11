@@ -17,4 +17,4 @@ To solve that, we built [Candix.com](https://candix.com/?utm_medium=social&utm_s
 
 Usage is skyrocketing, with companies like OpenAI, Ramp, and dozens of others accessing the pool.
 
-Git you curious? [Sign up in 2 minutes](https://candix.com/?utm_medium=social&utm_source=GitHub) and find out what you could get.
+Git you curious? [Sign up in 2 minutes](https://candix.com/?utm_medium=social&utm_source=GitHub) and change for the better.
