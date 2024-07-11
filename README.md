@@ -2,7 +2,7 @@
 
 Many of us engineers are underpaid compared to what we could earn in the market. We don't realize it because we're not prospecting, as it would be awkward if our employer found out.
 
-✨ I created Candix to solve that. It's the first confidential and intermediary-free hiring marketplace.
+I created Candix to solve that. It's the first confidential and intermediary-free hiring marketplace.
 
 It connects you with the most exciting, top-paying startups in the US and abroad, all while maintaining the highest level of confidentiality for your data.
 
