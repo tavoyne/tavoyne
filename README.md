@@ -1,6 +1,6 @@
 # What would it take for you to quit your job? 🪐
 
-List yourself on [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub) to be approached by top-paying startups and find out. 
+List yourself on [Candix.com](https://candix.com/?utm_medium=social&utm_source=GitHub) to be approached by top startups and find out. 
 
 People have used it to secure interviews at places like OpenAI and Ramp. 
 
