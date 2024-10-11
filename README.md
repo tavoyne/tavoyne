@@ -4,14 +4,20 @@ List yourself on [Candix.com](https://candix.com/?utm_medium=social&utm_source=G
 
 People have used it to secure interviews at places like OpenAI and Ramp. 
 
-It’s 100% confidential, so your current boss won’t find out.
+It’s 100% confidential. How?
+- Startups must sign an NDA to access the pool.
+- We enforce a single point of access per company.
+- We only show your profile to relevant companies.
+- We monitor our app 24/7.
 
 ## How it works
-1. You create a profile in 2 min, specifying your base criteria (role, compensation, location, etc.).
-2. We connect you with selected startups in our network (we only work with the best ones).
+
+1. You create a profile in 2 min, specifying your criteria (role, compensation, location, etc.).
+2. We confidentially connect you with startups in our select network.
 3. Startups reach out to you with personalized job opportunities.
 
 ## Why it's so cool
+
 - It connects you with the top 1% of tech startups. ✨
 - Companies are charged, not you. 🎁
 - It's confidential, meaning your current employer won't find out. 🔒
